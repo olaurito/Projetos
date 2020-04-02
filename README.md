@@ -1,2 +1,2 @@
 # Projetos
- Desenvolvimento de aplicações
+ Desenvolvimento de aplicações.
