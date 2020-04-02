@@ -12,7 +12,6 @@ class Conta
         $this->cpfTitular = $cpfTitular;
         $this->saldo = $saldo;
 
-
         self::$numeroDeContas++;
     }
 
@@ -30,14 +29,12 @@ class Conta
         
     }
 
-
     public function recuperaSaldo(): float
     {
        
         return $this->saldo;
     }
 
-    
     public function recuperaNumeroDeContas(): int
     {
        
