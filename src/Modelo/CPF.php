@@ -2,7 +2,7 @@
 
 namespace Alura\Banco\Modelo;
 
-final class CPF
+final class CPF //classe é final ninguem mais estende
 {
     private $numero;
 
