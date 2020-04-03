@@ -1,6 +1,6 @@
 <?php
 
-namespace Alura\Banco\Modelo;
+namespace Alura\Banco\Modelo; // pacotes do php para separar arquivos
 
 abstract class Pessoa
 {
