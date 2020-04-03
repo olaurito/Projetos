@@ -47,7 +47,7 @@ final class Endereco
         return $this->numero;
     }
 
-    public function __toString(): string
+    public function __toString(): string //métodos mágicos
     {
         return "{$this->rua}, {$this->numero}, {$this->bairro}, {$this->cidade}";
     }
